@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  background-color: #0B3043;
+}
+
+body {
+  background-image: url('/assets/landscape.svg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+canvas {
+  z-index: 2;
+}
+
+.text{
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  bottom: 15px;
+  position: absolute;
+  margin: 0 auto;
+  display: block;
+}
+
+a {
+  color: #ffffff6b;
+}
