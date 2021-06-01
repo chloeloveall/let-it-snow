@@ -28,7 +28,7 @@
 
 ## Description
 
-A project exploring the HTML canvas element with a falling snow effect. Built with the assistance of the [Brackets Academy HTML Canvas Snow Tutorial](https://www.bracketsacademy.com/2018/11/14/html-canvas-snow-effect-with-javascript/).
+Day one of #100daysofcode. A project exploring the HTML canvas element with a falling snow effect. Built with the assistance of the [Brackets Academy HTML Canvas Snow Tutorial](https://www.bracketsacademy.com/2018/11/14/html-canvas-snow-effect-with-javascript/).
 
 ## Preview
 
