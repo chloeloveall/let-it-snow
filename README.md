@@ -32,7 +32,7 @@ Day one of #100daysofcode. A project exploring the HTML canvas element with a fa
 
 ## Preview
 
-Live preview: [Let it Snow](https://letitsnow.vercel.app/)
+Live preview: [Let it Snow](https://let-it-snow.vercel.app/)
 
 Deployed on [Vercel](https://vercel.com)
 
